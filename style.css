@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+body {
+    background-color: darkmagenta;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 150px;
+    font-size: 150px;
+}
